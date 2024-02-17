@@ -1,0 +1,10 @@
+^D:\KULIAH\SEMESTER VII\PEMROGRAMAN BERBASIS PERANGKAT BERGERAK\FLUTTER_NOTE\FLUTTER_NOTE_APP\BUILD\WINDOWS\CMAKEFILES\082E960C5C5F1393E0EF5006ADCF291F\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

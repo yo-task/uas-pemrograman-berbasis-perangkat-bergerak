@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app\build\windows\CMakeFiles\33adf1a7ae4ba51a3ccc074d08a667f4\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app\build\windows\CMakeFiles\466566ed1cdd73f3387b754ff4b7fcd0\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B23F5D18-78C1-3034-96D9-AA812C885A84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

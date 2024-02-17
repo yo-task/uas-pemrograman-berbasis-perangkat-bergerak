@@ -1,0 +1,10 @@
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/icudtl.dat
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/flutter_windows.dll
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,28 @@
+^D:\KULIAH\SEMESTER VII\PEMROGRAMAN BERBASIS PERANGKAT BERGERAK\FLUTTER_NOTE\FLUTTER_NOTE_APP\BUILD\WINDOWS\CMAKEFILES\33ADF1A7AE4BA51A3CCC074D08A667F4\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Tomi\flutter "PROJECT_DIR=D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app" FLUTTER_ROOT=C:\Users\Tomi\flutter "FLUTTER_EPHEMERAL_DIR=D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app\windows\flutter\ephemeral" "PROJECT_DIR=D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app" "FLUTTER_TARGET=D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC83NjdkOGM3NWU4OTgwOTFiOTI1NTE5ODAzODMwZmMyNzIxNjU4ZDA3Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=D:\Kuliah\Semester VII\Pemrograman Berbasis Perangkat Bergerak\flutter_note\flutter_note_app\.dart_tool\package_config.json" C:/Users/Tomi/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\KULIAH\SEMESTER VII\PEMROGRAMAN BERBASIS PERANGKAT BERGERAK\FLUTTER_NOTE\FLUTTER_NOTE_APP\BUILD\WINDOWS\CMAKEFILES\466566ED1CDD73F3387B754FF4B7FCD0\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\KULIAH\SEMESTER VII\PEMROGRAMAN BERBASIS PERANGKAT BERGERAK\FLUTTER_NOTE\FLUTTER_NOTE_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/windows" "-BD:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows" --check-stamp-file "D:/Kuliah/Semester VII/Pemrograman Berbasis Perangkat Bergerak/flutter_note/flutter_note_app/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
